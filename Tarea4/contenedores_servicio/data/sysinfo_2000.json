@@ -1,0 +1,13 @@
+{
+    "containers": [{
+            "id": "container1",
+            "cpu_usage": 12.5,
+            "ram_usage": 2048
+        },
+        {
+            "id": "container2",
+            "cpu_usage": 7.8,
+            "ram_usage": 1024
+        }
+    ]
+}
